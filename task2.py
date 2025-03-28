@@ -25,7 +25,7 @@ while True:
         f1.close()
         print("Data successfully appended.")
     else:
-        break
+        print("Invalid Choice!")
 
 #Read the contents of the file
 try:
